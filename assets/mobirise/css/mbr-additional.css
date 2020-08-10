@@ -3333,6 +3333,14 @@ section.lazy-placeholder:after {
 .cid-s617x20Ua4 .card-img {
   color: #ffffff;
 }
+.cid-s617x20Ua4 .title-cont,
+.cid-s617x20Ua4 .mbr-section-title {
+  text-align: left;
+}
+.cid-s617x20Ua4 .mbr-section-subtitle,
+.cid-s617x20Ua4 .mbr-section-btn {
+  text-align: left;
+}
 .cid-s6VlgIXKpO {
   padding-top: 0px;
   padding-bottom: 0px;
