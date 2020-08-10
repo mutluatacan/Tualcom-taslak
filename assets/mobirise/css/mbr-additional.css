@@ -1688,7 +1688,7 @@ section.lazy-placeholder:after {
   width: 35px;
   height: 3px;
   display: inline-block;
-  background: #ff3366;
+  background: #f21b00;
   margin-bottom: 1.5rem;
   transition: background 0.3s;
 }
